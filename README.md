@@ -19,3 +19,7 @@ P → Pause / Resume
 R → Restart after game over
 Q → Quit after game over
 
+# Screenshot
+
+![Snake Game Screenshot](Screenshot.png)
+
